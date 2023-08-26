@@ -14,6 +14,7 @@
     "@astrojs/rss": "^2.4.4",
     "@astrojs/sitemap": "^2.0.2",
     "@vrite/sdk": "^2023.8.18-beta",
-    "astro": "^2.10.14"
+    "astro": "^2.10.14",
+    "shiki": "^0.14.3"
   }
 }
