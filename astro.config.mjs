@@ -12,7 +12,7 @@ const { VRITE_ACCESS_TOKEN, VRITE_CONTENT_GROUP_ID } = loadEnv(
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://example.com',
+	site: 'https://wblondel.github.io',
 	integrations: [
 		mdx(),
 		sitemap(),
